@@ -16,10 +16,42 @@ JD ERD
 
 * JD's averages $3 million in annual sales with 11,000 orders per year.
 * Sales surged by 165% in 2020 due to the pandemic but declined by nearly 45% by 2022, stabilizing slightly above pre-pandemic levels as physical stores reopened.
-* JD shows seasonality, with peak sales in October while experienced a consistent decline from May through August before recovering in the fall.
+* JD shows seasonality, with peak sales in October while experiencing a consistent decline from May through August before recovering in the fall.
 * North America and EMEA contribute 80% of sales, with the U.S. alone accounting for 50%.
 * APAC and LATAM experienced an astounding +200% growth in 2020 but have remained volatile.
   
+### Key Product Performance
+
+* During the pandemic, laptop sales soared, with MacBook orders increasing by 400% and ThinkPad by 220%. This trend has since reversed post-pandemic.
+* Four products — monitors, AirPods, laptops, and a Samsung Cable Pack—generate 96% of total revenue.
+* AirPods account for 45% of all orders ($3.3M revenue).
+* Monitors lead in revenue, contributing $9.8 million (35% of total sales) from 2019 to 2022.
+* Samsung Cable Pack represents 20% of orders but only 2% of revenue, likely due to its low price or use in promotions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
