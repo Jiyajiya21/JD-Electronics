@@ -19,6 +19,9 @@ JD ERD
 * JD shows seasonality, with peak sales in October while experiencing a consistent decline from May through August before recovering in the fall.
 * North America and EMEA contribute 80% of sales, with the U.S. alone accounting for 50%.
 * APAC and LATAM experienced an astounding +200% growth in 2020 but have remained volatile.
+
+  <img width="1113" alt="Sales" src="https://github.com/user-attachments/assets/d57761ef-00b8-463b-adc1-792135fce126">
+
   
 ### Key Product Performance
 
@@ -29,8 +32,12 @@ JD ERD
 * Samsung Cable Pack represents 20% of orders but only 2% of revenue, likely due to its low price or use in promotions.
 
 
+### Customer Growth and Repeat Customer Trends
 
-
+* JD's unique customers grew steadily from 2019 to 2021, peaking at nearly 30,000 in 2021, but declined sharply by nearly 40% in 2022.
+* Repeat purchase rates (≥2 orders) consistently decreased, from 20.22% in 2019 to 14.76% in 2022, indicating challenges in retaining customers after initial purchases.
+* The stability in the number of repeat customers suggests a core base of loyal customers who consistently make multiple purchases each year.
+* The decline in both unique and repeat customers in 2022 highlights potential shifts in market dynamics or customer preferences.
 
 
 
